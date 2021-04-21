@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+form {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 10px;
+}
+body {
+    border: black 1px solid;
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 270px;
+    line-break: 5px;
+    
+    
+}
+div {
+    display: block;
+    margin: 10px;
+}
+#submit {
+    width: 250px;
+    background: transparent;
+    border: 1px solid gray;
+    border-radius: 3px;
+   
+
+}
+input {
+    color: gray;
+}
